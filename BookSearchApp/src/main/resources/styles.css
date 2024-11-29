@@ -1,0 +1,22 @@
+.button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+    -fx-background-radius: 12;
+}
+
+.list-view {
+    -fx-background-color: #F5F5F5;
+    -fx-border-color: #CCCCCC;
+    -fx-border-radius: 8;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+}
+
+.image-view {
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 10, 0, 0, 0);
+}
